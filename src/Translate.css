@@ -1,0 +1,19 @@
+*{
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.inputbox{
+  width:45%;
+  height:200px;
+  resize:none;
+  margin-right:5%;
+}
+.outputbox{
+  display:inline-block;
+  width:45%;
+  height:200px;
+  resize:none;
+  border-style:solid;
+
+}
